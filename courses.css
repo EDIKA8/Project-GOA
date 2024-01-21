@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.my-list {
+   height: 500px;
+    margin: 630px;
+    padding: 10px;
+    margin-top: 200px;
+    margin-left: 650px; 
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    box-shadow: 0 0 10px 5px #00b847,
+    0 0 20px 7px #00eb14,
+    0 0 10px 20px #01af15,
+    0 0 35px 25px #03ec59;
+    border-radius: 20px;
+}
+  
+  .my-list ul {
+    padding: 30px;
+    margin: 5px;
+  }
+  
+  .my-list li {
+    padding: 5px 0;
+  }
